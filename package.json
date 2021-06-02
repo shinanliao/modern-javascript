@@ -1,0 +1,22 @@
+{
+  "name": "modern-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "numeral": "^2.0.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
